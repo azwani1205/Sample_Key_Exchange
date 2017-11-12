@@ -3,5 +3,3 @@ sample repository
 
 New Release
 v0.1.1
-
-Latest commit from KF

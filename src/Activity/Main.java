@@ -18,7 +18,7 @@ public class Main {
     }
 
     private void init() {
-        System.out.println("Creating person...");
+        
         final Person alice = new Person();
         final Person bob   = new Person();
 
