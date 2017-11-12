@@ -12,12 +12,13 @@ package Activity;
 public class Main {
 
     public static void main(final String[] args) throws Exception {
+        //To show the application is started
         System.out.println("The application is started");
         new Main().init();
     }
 
     private void init() {
-        
+        System.out.println("Creating person...");
         final Person alice = new Person();
         final Person bob   = new Person();
 
